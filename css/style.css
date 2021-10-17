@@ -1,0 +1,16 @@
+body {
+    background-color: #eaf6f6;
+}
+.qwee {
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-color: #F8F2D4;
+}
+hr {
+    border: none;
+    border-top:7px dotted rgb(177, 175, 175);
+    width: 20%;
+}
+h1 , h3 {
+    color: #66bfbf;
+}
